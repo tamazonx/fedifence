@@ -2,7 +2,9 @@ FediFence.Social is a service for new and existing Mastodon and Fediverse Servic
 
 This server can be queried for it's blocked servers via API or used by tools such as those catalogued at [https://github.com/ineffyble/mastodon-block-tools](https://github.com/ineffyble/mastodon-block-tools)
 
-If you are an individual experiencing or witnessing abuse, please contact the administrator of your service, and learn more about how to cope with online abuse at [https://onlineharassmentfieldmanual.pen.org/](https://onlineharassmentfieldmanual.pen.org/)
+If you are an individual experiencing or witnessing abuse, please contact the administrator of your service, and [review the list of official resources for online abuse, cyberbullying and harassment in your country](https://github.com/jazmichaelking/fedifence/blob/main/ResourcesForIndividuals).
+
+Learn more about how to cope with online abuse at [https://onlineharassmentfieldmanual.pen.org/](https://onlineharassmentfieldmanual.pen.org/)
 
 The following flat files are available for individual download (domain only, glitch-soc import, [netshepsky](https://github.com/netshepsky/FediBlock-Importer) format):
 ## Minimum Necessary
