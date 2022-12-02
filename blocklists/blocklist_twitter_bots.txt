@@ -2,6 +2,7 @@ beta.birdsite.live
 birb.elfenban.de
 bird.evilcyberhacker.net
 bird.froth.zone
+bird.istheguy.com
 bird.nzbr.de
 birdbots.leptonics.com
 birdsite.b93.dece.space
