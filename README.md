@@ -1,4 +1,4 @@
-FediFence.Social is a service for new and existing Mastodon Service Providers to begin a minimum necessary blocklist.
+FediFence.Social is a service for new and existing Mastodon and Fediverse Service Providers to begin a minimum necessary blocklist.
 
 This server can be queried for it's blocked servers via API or used by tools such as those catalogued at [https://github.com/ineffyble/mastodon-block-tools](https://github.com/ineffyble/mastodon-block-tools)
 
