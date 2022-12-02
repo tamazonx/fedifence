@@ -3,6 +3,7 @@ domain,block_type,reject_media,reject_reports,private_comment,public_comment,obf
 "birb.elfenban.de",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "bird.evilcyberhacker.net",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "bird.froth.zone",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
+"bird.istheguy.com",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "bird.nzbr.de",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "birdbots.leptonics.com",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "birdsite.b93.dece.space",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
