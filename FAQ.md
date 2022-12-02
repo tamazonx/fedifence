@@ -2,7 +2,7 @@
 Service providers have a duty of care to their users, this list provides a way to block sources of hate and discrimination on the Fediverse.
 
 ## Who is on the blocklist?
-Mastodon service providers that knowingly host and deliver content that is categorised as:
+Mastodon or Fediverse service providers that knowingly host and deliver content that is categorised as:
 
 Racism or advocation of racism
 Sexism or advocation of sexism
