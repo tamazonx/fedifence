@@ -4,12 +4,13 @@ Service providers have a duty of care to their users, this list provides a way t
 ## Who is on the blocklist?
 Mastodon or Fediverse service providers that knowingly host and deliver content that is categorised as:
 
-Racism or advocation of racism
-Sexism or advocation of sexism
-Discrimination against family status, gender, gender identity or expression, marital status, sex, sexual orientation, native language, age, ability, race and/or ethnicity, caste, national origin, socioeconomic status, religion, geographic location, or any other dimension of diversity
-Xenophobia and/or violent nationalism
-Hateful terms, symbols, imagery, and shorthand
-False or misleading information that may cause or lead to harm
+- Racism or advocation of racism
+- Sexism or advocation of sexism
+- Discrimination against family status, gender, gender identity or expression, marital status, sex, sexual orientation, native language, age, ability, race and/or ethnicity, caste, national origin, socioeconomic status, religion, geographic location, or any other dimension of diversity
+- Xenophobia and/or violent nationalism
+- Hateful terms, symbols, imagery, and shorthand
+- False or misleading information that may cause or lead to harm
+
 The optional Twitter list contains servers that mirror content and user accounts from Twitter users without permission or consent.
 
 ## What if I need or want to monitor abuse for legal, academic or personal reasons?
