@@ -6,6 +6,8 @@ If you are an individual experiencing or witnessing abuse, please contact the ad
 
 Learn more about how to cope with online abuse at [https://onlineharassmentfieldmanual.pen.org/](https://onlineharassmentfieldmanual.pen.org/)
 
+This list is not static. Check back frequently for updates or follow [@admin@fedifence.social](https://fedifence.social/@admin) for notifications.
+
 The following flat files are available for individual download (domain only, glitch-soc import, [netshepsky](https://github.com/netshepsky/FediBlock-Importer) format):
 ## Minimum Necessary
  -  [blocklist.txt](https://raw.githubusercontent.com/FediFence/fedifence/main/blocklists/blocklist.txt)
