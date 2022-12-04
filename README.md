@@ -2,20 +2,22 @@ FediFence.Social is a service for new and existing Mastodon and Fediverse Servic
 
 This server can be queried for it's blocked servers via API or used by tools such as those catalogued at [https://github.com/ineffyble/mastodon-block-tools](https://github.com/ineffyble/mastodon-block-tools)
 
-If you are an individual experiencing or witnessing abuse, please contact the administrator of your service, and [review the list of official resources for online abuse, cyberbullying and harassment in your country](https://github.com/jazmichaelking/fedifence/blob/main/ResourcesForIndividuals).
+If you are an individual experiencing or witnessing abuse, please contact the administrator of your service, and [review the list of official resources for online abuse, cyberbullying and harassment in your country](https://github.com/FediFence/fedifence/blob/main/ResourcesForIndividuals).
 
 Learn more about how to cope with online abuse at [https://onlineharassmentfieldmanual.pen.org/](https://onlineharassmentfieldmanual.pen.org/)
 
 The following flat files are available for individual download (domain only, glitch-soc import, [netshepsky](https://github.com/netshepsky/FediBlock-Importer) format):
 ## Minimum Necessary
- -  [blocklist.txt](https://raw.githubusercontent.com/jazmichaelking/fedifence/main/blocklists/blocklist.txt)
- -  [blocklist\_glitch.csv](https://raw.githubusercontent.com/jazmichaelking/fedifence/main/blocklists/blocklist_glitch.csv)
- -  [blocklist\_netshepsky.csv](https://raw.githubusercontent.com/jazmichaelking/fedifence/main/blocklists/blocklist_netshepsky.csv)
+ -  [blocklist.txt](https://raw.githubusercontent.com/FediFence/fedifence/main/blocklists/blocklist.txt)
+ -  [blocklist\_glitch.csv](https://raw.githubusercontent.com/FediFence/fedifence/main/blocklists/blocklist_glitch.csv)
+ -  [blocklist\_netshepsky.csv](https://raw.githubusercontent.com/FediFence/fedifence/main/blocklists/blocklist_netshepsky.csv)
 
 ## Optional Twitter Bots
--  [blocklist\_twitter\_bots.txt](https://raw.githubusercontent.com/jazmichaelking/fedifence/main/blocklists/blocklist_twitter_bots.txt)
--  [blocklist\_twitter\_bots_glitch.csv](https://raw.githubusercontent.com/jazmichaelking/fedifence/main/blocklists/blocklist_twitter_bots_glitch.csv)
--  [blocklist\_twitter\_bots\_netshepsky.csv](https://raw.githubusercontent.com/jazmichaelking/fedifence/main/blocklists/blocklist_twitter_bots_netshepsky.csv)
+-  [blocklist\_twitter\_bots.txt](https://raw.githubusercontent.com/FediFence/fedifence/main/blocklists/blocklist_twitter_bots.txt)
+-  [blocklist\_twitter\_bots_glitch.csv](https://raw.githubusercontent.com/FediFence/fedifence/main/blocklists/blocklist_twitter_bots_glitch.csv)
+-  [blocklist\_twitter\_bots\_netshepsky.csv](https://raw.githubusercontent.com/FediFence/fedifence/main/blocklists/blocklist_twitter_bots_netshepsky.csv)
+
+If you would like to review additional block lists, see [https://joinfediverse.wiki/FediBlock](https://joinfediverse.wiki/FediBlock)
 
 ## Who is on the blocklist?
 
@@ -31,6 +33,4 @@ Mastodon service providers that knowingly host and deliver content that is categ
 The optional Twitter list contains servers that mirror content and user accounts from Twitter users without permission or consent. 
 
 ## How can I be removed from the lists? How can I add to these lists?
-You cannot. These lists are bare minimum blocklists compiled by a dedicated team of long-time Mastodon administrators committed to a safe, hate-free Mastodon experience. These lists are considered essential and unassailable. To make us aware of errata please open an issue at [https://github.com/jazmichaelking/fedifence/issues](https://github.com/jazmichaelking/fedifence/issues) 
-
-If you would like to review additional block lists, see [https://joinfediverse.wiki/FediBlock](https://joinfediverse.wiki/FediBlock)
+You cannot. These lists are bare minimum blocklists compiled by a dedicated team of long-time Mastodon administrators committed to a safe, hate-free Mastodon experience. These lists are considered essential and unassailable. To make us aware of errata please open an issue at [https://github.com/FediFence/fedifence/issues](https://github.com/FediFence/fedifence/issues) 
