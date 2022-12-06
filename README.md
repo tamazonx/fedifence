@@ -2,7 +2,7 @@ FediFence.Social is a service for new and existing Mastodon and Fediverse Servic
 
 This server can be queried for it's blocked servers via API or used by tools such as those catalogued at [https://github.com/ineffyble/mastodon-block-tools](https://github.com/ineffyble/mastodon-block-tools)
 
-If you are an individual experiencing or witnessing abuse, please contact the administrator of your service, and [review the list of official resources for online abuse, cyberbullying and harassment in your country](https://github.com/FediFence/fedifence/blob/main/ResourcesForIndividuals).
+If you are an individual experiencing or witnessing abuse, please contact the administrator of your service, and [review the list of official resources for online abuse, cyberbullying and harassment in your country](https://github.com/FediFence/fedifence/blob/main/ResourcesForIndividuals.md).
 
 Learn more about how to cope with online abuse at [https://onlineharassmentfieldmanual.pen.org/](https://onlineharassmentfieldmanual.pen.org/)
 
