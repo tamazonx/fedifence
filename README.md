@@ -4,7 +4,7 @@ This server can be queried for it's blocked servers via API or used by tools suc
 
 If you are an individual experiencing or witnessing abuse, please contact the administrator of your service, and [review the list of official resources for online abuse, cyberbullying and harassment in your country](https://github.com/FediFence/fedifence/blob/main/ResourcesForIndividuals.md).
 
-Learn more about how to cope with online abuse at [https://onlineharassmentfieldmanual.pen.org/](https://onlineharassmentfieldmanual.pen.org/)
+Learn more about how to cope with online abuse at [https://onlineharassmentfieldmanual.pen.org/](https://onlineharassmentfieldmanual.pen.org/) and [https://iheartmob.org/resources](https://iheartmob.org/resources)
 
 This list is not static. Check back frequently for updates or follow [@admin@fedifence.social](https://fedifence.social/@admin) for notifications.
 
