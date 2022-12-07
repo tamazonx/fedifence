@@ -164,7 +164,6 @@ masochi.st
 mastodon.ml
 mastodon.tech
 mastodong.lol
-mastodong.lol
 merovingian.club
 milker.cafe
 miniwa.moe
