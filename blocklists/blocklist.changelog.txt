@@ -1,0 +1,4 @@
+2022-12-07 ADD activitypub-troll.cf
+2022-12-07 ADD ignorelist.com
+2022-12-07 ADD misskey-forkbomb.cf
+2022-12-07 ADD repl.co
