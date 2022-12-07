@@ -8,7 +8,7 @@ Learn more about how to cope with online abuse at [https://onlineharassmentfield
 
 The FediFence Blocklist is not static. Check back frequently for updates or follow [@admin@fedifence.social](https://fedifence.social/@admin) for notifications when the list is updated.
 
-The following flat files are available for individual download (domain only, glitch-soc import, [netshepsky](https://github.com/netshepsky/FediBlock-Importer) format):
+The following flat files are available for individual download (domain only, [glitch-soc](https://glitch-soc.github.io/docs/) import format , [netshepsky](https://github.com/netshepsky/FediBlock-Importer) import format):
 ## Minimum Necessary
  -  [blocklist.txt](https://raw.githubusercontent.com/FediFence/fedifence/main/blocklists/blocklist.txt)
  -  [blocklist\_glitch.csv](https://raw.githubusercontent.com/FediFence/fedifence/main/blocklists/blocklist_glitch.csv)
