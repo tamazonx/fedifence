@@ -1,4 +1,5 @@
 beta.birdsite.live
+beta.mstdn.cf
 birb.elfenban.de
 bird.evilcyberhacker.net
 bird.froth.zone
@@ -6,7 +7,7 @@ bird.istheguy.com
 bird.nzbr.de
 birdbots.leptonics.com
 birdsite.b93.dece.space
-birdsite.blazelights.dev
+birdsite.blazelight.dev
 birdsite.frog.fashion
 birdsite.gabeappleton.me
 birdsite.james.moody.name
@@ -27,7 +28,10 @@ fed.celp.de
 respublicae.eu
 tweetbridge.kogasa.de
 tweets.icu
-twitter.activitypub.actor	
+twitter.activitypub.actor
+twitter.grants.cafe
+twitter.piriklub.eu
 twitterbridge.jannis.rocks	
+twtr.ingeechat.party
 twtr.plus
 zwezo.o-k-i.net
