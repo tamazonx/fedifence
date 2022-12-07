@@ -1,5 +1,6 @@
 domain,block_type,reject_media,reject_reports,private_comment,public_comment,obfuscate
 "beta.birdsite.live",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
+"beta.mstdn.cf",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "birb.elfenban.de",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "bird.evilcyberhacker.net",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "bird.froth.zone",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
@@ -7,7 +8,7 @@ domain,block_type,reject_media,reject_reports,private_comment,public_comment,obf
 "bird.nzbr.de",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "birdbots.leptonics.com",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "birdsite.b93.dece.space",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
-"birdsite.blazelights.dev",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
+"birdsite.blazelight.dev",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "birdsite.frog.fashion",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "birdsite.gabeappleton.me",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "birdsite.james.moody.name",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
@@ -28,6 +29,9 @@ domain,block_type,reject_media,reject_reports,private_comment,public_comment,obf
 "tweetbridge.kogasa.de",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "tweets.icu",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "twitter.activitypub.actor",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
+twitter.grants.cafe",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
+"twitter.piriklub.eu",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "twitterbridge.jannis.rocks",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
+"twtr.ingeechat.party",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "twtr.plus",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "zwezo.o-k-i.net",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE

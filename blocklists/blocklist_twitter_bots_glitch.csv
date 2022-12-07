@@ -1,5 +1,6 @@
 #domain,#severity,#reject_media,#reject_reports,#public_comment,#obfuscate
 "beta.birdsite.live",suspend,FALSE,FALSE,"FediFence.Social",FALSE
+"beta.mstdn.cf",suspend,FALSE,FALSE,"FediFence.Social",FALSE
 "birb.elfenban.de",suspend,FALSE,FALSE,"FediFence.Social",FALSE
 "bird.evilcyberhacker.net",suspend,FALSE,FALSE,"FediFence.Social",FALSE
 "bird.froth.zone",suspend,FALSE,FALSE,"FediFence.Social",FALSE
@@ -7,7 +8,7 @@
 "bird.nzbr.de",suspend,FALSE,FALSE,"FediFence.Social",FALSE
 "birdbots.leptonics.com",suspend,FALSE,FALSE,"FediFence.Social",FALSE
 "birdsite.b93.dece.space",suspend,FALSE,FALSE,"FediFence.Social",FALSE
-"birdsite.blazelights.dev",suspend,FALSE,FALSE,"FediFence.Social",FALSE
+"birdsite.blazelight.dev",suspend,FALSE,FALSE,"FediFence.Social",FALSE
 "birdsite.frog.fashion",suspend,FALSE,FALSE,"FediFence.Social",FALSE
 "birdsite.gabeappleton.me",suspend,FALSE,FALSE,"FediFence.Social",FALSE
 "birdsite.james.moody.name",suspend,FALSE,FALSE,"FediFence.Social",FALSE
@@ -28,6 +29,9 @@
 "tweetbridge.kogasa.de",suspend,FALSE,FALSE,"FediFence.Social",FALSE
 "tweets.icu",suspend,FALSE,FALSE,"FediFence.Social",FALSE
 "twitter.activitypub.actor",suspend,FALSE,FALSE,"FediFence.Social",FALSE
+"twitter.grants.cafe",suspend,FALSE,FALSE,"FediFence.Social",FALSE
+"twitter.piriklub.eu",suspend,FALSE,FALSE,"FediFence.Social",FALSE
 "twitterbridge.jannis.rocks",suspend,FALSE,FALSE,"FediFence.Social",FALSE
+"twtr.ingeechat.party",suspend,FALSE,FALSE,"FediFence.Social",FALSE
 "twtr.plus",suspend,false,false,"FediFenced",FALSE
 "zwezo.o-k-i.net",suspend,false,false,"FediFenced",FALSE

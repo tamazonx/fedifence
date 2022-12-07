@@ -1,2 +1,8 @@
+2022-12-07 ADD twtr.ingeechat.party
+2022-12-07 ADD twitter.piriklub.eu
+2022-12-07 ADD twitter.grants.cafe
+2022-12-07 ADD birdsite.blazelight.dev
+2022-12-07 REM birdsite.blazelights.dev
+2022-12-07 ADD beta.mstdn.cf
 2022-12-07 ADD zwezo.o-k-i.net
 2022-12-07 ADD tweets.icu
