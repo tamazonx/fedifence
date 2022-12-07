@@ -2,6 +2,8 @@
 
 This server can be queried for it's blocked servers via API or used by tools such as those catalogued at [https://github.com/ineffyble/mastodon-block-tools](https://github.com/ineffyble/mastodon-block-tools)
 
+See [https://github.com/glitch-soc/mastodon/pull/1774](https://github.com/glitch-soc/mastodon/pull/1774) for progress on being able to query this instance directly.
+
 If you are experiencing or witnessing abuse, please contact the administrator of your service, and [review the list of official resources for online abuse, cyberbullying and harassment in your country](https://github.com/FediFence/fedifence/blob/main/ResourcesForIndividuals.md).
 
 Learn more about how to cope with online abuse at [https://onlineharassmentfieldmanual.pen.org/](https://onlineharassmentfieldmanual.pen.org/) and [https://iheartmob.org/resources](https://iheartmob.org/resources)
