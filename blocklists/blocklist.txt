@@ -4,6 +4,7 @@
 5dollah.click
 8777.ch
 absturztau.be
+activitypub-troll.cf
 aethy.com
 airis.work
 akm.longyap.name.my
@@ -120,6 +121,7 @@ husbandoism.life
 husk.site
 iamterminally.online
 iddqd.social
+ignorelist.com
 ikbenpiraat.nl
 inex.rocks
 isesh.com
@@ -162,10 +164,12 @@ masochi.st
 mastodon.ml
 mastodon.tech
 mastodong.lol
+mastodong.lol
 merovingian.club
 milker.cafe
 miniwa.moe
 mirr0r.city
+misskey-forkbomb.cf
 moe.cachapa.xyz
 mooo.com
 mr64.net
@@ -216,6 +220,7 @@ rebased.io
 redstateliberal.social
 refusal.biz
 refuse2.work
+repl.co
 riddly.rakka.tk
 rojogato.com
 ryona.agency
