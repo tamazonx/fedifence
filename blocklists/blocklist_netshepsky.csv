@@ -5,6 +5,7 @@ domain,block_type,reject_media,reject_reports,private_comment,public_comment,obf
 "5dollah.click",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "8777.ch",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "absturztau.be",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
+"activitypub-troll.cf",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "aethy.com",suspend,FALSE,FALSE,"Tier0_2022-12-01","FediFence.Social",FALSE
 "airis.work",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "akm.longyap.name.my",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
@@ -121,6 +122,7 @@ domain,block_type,reject_media,reject_reports,private_comment,public_comment,obf
 "husk.site",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "iamterminally.online",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "iddqd.social",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
+"ignorelist.com",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "ikbenpiraat.nl",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "inex.rocks",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "isesh.com",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
@@ -167,6 +169,7 @@ domain,block_type,reject_media,reject_reports,private_comment,public_comment,obf
 "milker.cafe",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "miniwa.moe",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "mirr0r.city",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
+"misskey-forkbomb.cf",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "moe.cachapa.xyz",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "mooo.com",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "mr64.net",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
@@ -217,6 +220,7 @@ domain,block_type,reject_media,reject_reports,private_comment,public_comment,obf
 "redstateliberal.social",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "refusal.biz",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "refuse2.work",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
+"repl.co",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "riddly.rakka.tk",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "rojogato.com",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "ryona.agency",suspend,FALSE,FALSE,"Tier0_2022-12-01","FediFence.Social",FALSE
