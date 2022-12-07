@@ -25,7 +25,8 @@
 "birdsitelive.peanutlasko.com",suspend,FALSE,FALSE,"FediFence.Social",FALSE
 "bridge.birb.space",suspend,FALSE,FALSE,"FediFence.Social",FALSE
 "respublicae.eu",suspend,FALSE,FALSE,"FediFence.Social",FALSE
+"tweetbridge.kogasa.de",suspend,FALSE,FALSE,"FediFence.Social",FALSE
+"tweets.icu",suspend,FALSE,FALSE,"FediFence.Social",FALSE
 "twitter.activitypub.actor",suspend,FALSE,FALSE,"FediFence.Social",FALSE
 "twitterbridge.jannis.rocks",suspend,FALSE,FALSE,"FediFence.Social",FALSE
-"tweetbridge.kogasa.de",suspend,FALSE,FALSE,"FediFence.Social",FALSE
-"twtr.plus",suspend,false,false,"FediFenced",false
+"twtr.plus",suspend,false,false,"FediFenced",FALSE
