@@ -8,3 +8,5 @@ If you are experiencing or witnessing abuse online, these resources can help you
 | New Zealand | https://netsafe.org.nz/bullying-abuse-support/ |
 | United Kingdom | https://www.met.police.uk/advice/advice-and-information/har/harassment-on-social-media/  |
 | USA | https://www.stopbullying.gov/resources/get-help-now |
+
+Please open an issue or PR to suggest additions ot this list.
