@@ -30,3 +30,4 @@ tweets.icu
 twitter.activitypub.actor	
 twitterbridge.jannis.rocks	
 twtr.plus
+zwezo.o-k-i.net

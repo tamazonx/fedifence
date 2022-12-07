@@ -30,3 +30,4 @@ domain,block_type,reject_media,reject_reports,private_comment,public_comment,obf
 "twitter.activitypub.actor",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "twitterbridge.jannis.rocks",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
 "twtr.plus",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
+"zwezo.o-k-i.net",suspend,FALSE,FALSE,"Tier1_2022-12-01","FediFence.Social",FALSE
