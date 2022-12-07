@@ -10,6 +10,7 @@ Mastodon or Fediverse service providers that knowingly host and deliver content 
 - Xenophobia and/or violent nationalism
 - Hateful terms, symbols, imagery, and shorthand
 - False or misleading information that may cause or lead to harm
+- Malware, DDoS, or exploit code intended to disrupt the network
 
 The optional Twitter list contains servers that mirror content and user accounts from Twitter users without permission or consent.
 
