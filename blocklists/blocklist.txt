@@ -63,7 +63,6 @@ digitalmarketer.social
 djsumdog.com
 dline.xyz
 dmgd.monster
-dolphin-emu.org
 dotsod.com
 duwa.ng
 eaku.net
@@ -163,6 +162,7 @@ maneisacutie.club
 masochi.st
 mastodon.ml
 mastodon.tech
+mastodong.lol
 mastodong.lol
 merovingian.club
 milker.cafe
