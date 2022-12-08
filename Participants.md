@@ -4,3 +4,5 @@ The service providers below use the FediFence.Social Blocklist. Please open an i
 
 - https://indiepocalypse.social
 - https://toot.wales 
+- https://sunny.garden
+- https://indiegames.online
