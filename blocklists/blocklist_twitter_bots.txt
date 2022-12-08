@@ -17,11 +17,11 @@ birdsite.monster
 birdsite.oliviaappleton.com
 birdsite.slashdev.space
 birdsite.tcjc.uk
-birdsite.thorlaksson.com	
-birdsite.toot.si		
+birdsite.thorlaksson.com
+birdsite.toot.si
 birdsite.wilde.cloud
-birdsitelive.ffvo.dev	
-birdsitelive.peanutlasko.com	
+birdsitelive.ffvo.dev
+birdsitelive.peanutlasko.com 
 birdsitelive.treffler.cloud
 bridge.birb.space
 fed.celp.de
@@ -31,7 +31,7 @@ tweets.icu
 twitter.activitypub.actor
 twitter.grants.cafe
 twitter.piriklub.eu
-twitterbridge.jannis.rocks	
+twitterbridge.jannis.rocks
 twtr.ingeechat.party
 twtr.plus
 zwezo.o-k-i.net
