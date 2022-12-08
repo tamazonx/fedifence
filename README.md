@@ -1,6 +1,6 @@
 [FediFence.Social](https://fedifence.social) is a service for new and existing Mastodon and Fediverse Service Providers to begin a minimum necessary blocklist.
 
-This server can be queried for it's blocked servers via API or used by tools such as those catalogued at [https://github.com/ineffyble/mastodon-block-tools](https://github.com/ineffyble/mastodon-block-tools)
+This server can be queried for its blocked servers via API or used by tools such as those catalogued at [https://github.com/ineffyble/mastodon-block-tools](https://github.com/ineffyble/mastodon-block-tools)
 
 See [https://github.com/glitch-soc/mastodon/pull/1774](https://github.com/glitch-soc/mastodon/pull/1774) for progress on being able to query this instance directly.
 
