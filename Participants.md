@@ -2,7 +2,7 @@ The service providers below use the FediFence.Social Blocklist. Please open an i
 
 ## Participating Service Providers
 
-- https://indiepocalypse.social
-- https://toot.wales 
-- https://sunny.garden
 - https://indiegames.online
+- https://indiepocalypse.social
+- https://sunny.garden
+- https://toot.wales 
