@@ -3,5 +3,4 @@ The service providers below use the FediFence.Social Blocklist. Please open an i
 ## Participating Service Providers
 
 - https://indiegames.online
-- https://indiepocalypse.social
 - https://toot.wales 
