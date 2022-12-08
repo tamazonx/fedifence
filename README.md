@@ -37,5 +37,12 @@ Mastodon service providers that knowingly host and deliver content that is categ
 
 The optional Twitter Bot list contains servers that mirror content and user accounts from Twitter users without permission or consent. 
 
-## How can I be removed from the lists? How can I add to these lists?
-You cannot. These lists are bare minimum blocklists compiled by a dedicated team of long-time Mastodon administrators committed to a safe, hate-free Mastodon experience. These lists are considered essential and unassailable. To make us aware of errata please open an issue at [https://github.com/FediFence/fedifence/issues](https://github.com/FediFence/fedifence/issues) 
+## How can I be removed from the lists?
+
+While there are many instances on this list that we consider essential  entries, we understand that our processes have created false positives in the past, and we ask that you open an issue for any instance you feel is in error.
+
+These lists are compiled by a dedicated team of long-time Mastodon administrators committed to a safe, hate-free Mastodon experience. These lists are intended to be considered essential and unassailable. To make us aware of errata please open an issue at [https://github.com/FediFence/fedifence/issues](https://github.com/FediFence/fedifence/issues) 
+
+## How can I add to these lists?
+
+At the moment, we're not taking submissions to the list, but thank you for your interest.
