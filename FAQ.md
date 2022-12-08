@@ -24,7 +24,7 @@ Service providers generally establish terms of service and acceptable use polici
 
 While there are many instances on this list that we consider essential  entries, we understand that our processes have created false positives in the past, and we ask that you open an issue for any instance you feel is in error.
 
-These lists are compiled by a dedicated team of long-time Mastodon administrators committed to a safe, hate-free Mastodon experience. These lists are intended to be considered essential and unassailable. To make us aware of errata please open an issue at [https://github.com/FediFence/fedifence/issues](https://github.com/FediFence/fedifence/issues) 
+These lists are compiled by a dedicated team of long-time Mastodon administrators committed to a safe, hate-free Mastodon experience. These lists are intended to be considered reasonably essential, minimum necessary. To make us aware of errata please open an issue at [https://github.com/FediFence/fedifence/issues](https://github.com/FediFence/fedifence/issues) 
 
 ## How can I add to these lists?
 
