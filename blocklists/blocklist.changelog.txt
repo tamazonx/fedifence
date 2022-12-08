@@ -1,3 +1,4 @@
+2022-12-07 REM dolphin-emu.org
 2022-12-07 ADD activitypub-troll.cf
 2022-12-07 ADD ignorelist.com
 2022-12-07 ADD misskey-forkbomb.cf
